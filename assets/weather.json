@@ -1,0 +1,49 @@
+{
+    "coord": {
+        "lon": 35.2043,
+        "lat": 31.898
+    },
+    "weather": [
+        {
+            "id": 500,
+            "main": "Rain",
+            "description": "light rain",
+            "icon": "10d"
+        }
+    ],
+    "base": "stations",
+    "main": {
+        "temp": 287.53,
+        "feels_like": 287.32,
+        "temp_min": 287.44,
+        "temp_max": 288.71,
+        "pressure": 1014,
+        "humidity": 88,
+        "sea_level": 1014,
+        "grnd_level": 935
+    },
+    "visibility": 10000,
+    "wind": {
+        "speed": 6.86,
+        "deg": 275,
+        "gust": 8.71
+    },
+    "rain": {
+        "1h": 0.2
+    },
+    "clouds": {
+        "all": 99
+    },
+    "dt": 1715578107,
+    "sys": {
+        "type": 2,
+        "id": 2004982,
+        "country": "PS",
+        "sunrise": 1715568203,
+        "sunset": 1715617668
+    },
+    "timezone": 10800,
+    "id": 282239,
+    "name": "Ramallah",
+    "cod": 200
+}
